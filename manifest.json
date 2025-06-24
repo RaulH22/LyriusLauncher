@@ -8,12 +8,12 @@
     {
       "path": "libraries/net/fabricmc/fabric-loader/0.15.7/fabric-loader-0.15.7.jar",
       "url": "https://maven.fabricmc.net/net/fabricmc/fabric-loader/0.15.7/fabric-loader-0.15.7.jar",
-      "hash": "d41d8cd98f00b204e9800998ecf8427e"
+      "hash": "7b45f1d3d72f1d33a5e1413673e1f3a03b6de2db"
     },
     {
       "path": "libraries/net/fabricmc/fabric-api/fabric-api-0.97.0+1.21.4/fabric-api-0.97.0+1.21.4.jar",
       "url": "https://maven.fabricmc.net/net/fabricmc/fabric-api/fabric-api-0.97.0+1.21.4/fabric-api-0.97.0+1.21.4.jar",
-      "hash": "d41d8cd98f00b204e9800998ecf8427e"
+      "hash": "15c6833b4de63d4285a50b042ca83a6e4c39e103"
     },
     {
       "path": "libraries/net/sf/jopt-simple/jopt-simple/5.0.4/jopt-simple-5.0.4.jar",
@@ -50,7 +50,6 @@
       "url": "https://libraries.minecraft.net/com/mojang/brigadier/1.1.4/brigadier-1.1.4.jar",
       "hash": "8daa354d96fa3135a72a84bcc48e0fdcf5c8492f"
     },
-
     {
       "path": "libraries/io/netty/netty-buffer/4.1.95.Final/netty-buffer-4.1.95.Final.jar",
       "url": "https://repo1.maven.org/maven2/io/netty/netty-buffer/4.1.95.Final/netty-buffer-4.1.95.Final.jar",
@@ -108,4 +107,3 @@
     }
   ]
 }
-
