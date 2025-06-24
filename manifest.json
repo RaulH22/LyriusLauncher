@@ -51,7 +51,6 @@
       "hash": "somehashhere"
     },
 
-    // NETTY módulos separados, substituindo netty-all
     {
       "path": "libraries/io/netty/netty-buffer/4.1.95.Final/netty-buffer-4.1.95.Final.jar",
       "url": "https://repo1.maven.org/maven2/io/netty/netty-buffer/4.1.95.Final/netty-buffer-4.1.95.Final.jar",
