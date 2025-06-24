@@ -34,6 +34,16 @@
   "path": "libraries/org/apache/logging/log4j/log4j-api/2.20.0/log4j-api-2.20.0.jar",
   "url": "https://libraries.minecraft.net/org/apache/logging/log4j/log4j-api/2.20.0/log4j-api-2.20.0.jar",
   "hash": "5989e6347b40a5d683a510c993f5a77d7bc26ff4"
+},
+    {
+  "path": "libraries/com/mojang/logging/1.0.0/logging-1.0.0.jar",
+  "url": "https://libraries.minecraft.net/com/mojang/logging/1.0.0/logging-1.0.0.jar",
+  "hash": "11c3ce1976e89bb1e6ab8e46a8a5dc1e40cb88de"
+},
+{
+  "path": "libraries/org/slf4j/slf4j-api/1.8.0-beta4/slf4j-api-1.8.0-beta4.jar",
+  "url": "https://libraries.minecraft.net/org/slf4j/slf4j-api/1.8.0-beta4/slf4j-api-1.8.0-beta4.jar",
+  "hash": "743dfd8a1c51f6c0f2ce57064875fd3724c7d2c6"
 }
 
   ]
