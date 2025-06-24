@@ -24,6 +24,17 @@
       "path": "libraries/org/apache/logging/log4j/log4j-core/2.20.0/log4j-core-2.20.0.jar",
       "url": "https://libraries.minecraft.net/org/apache/logging/log4j/log4j-core/2.20.0/log4j-core-2.20.0.jar",
       "hash": "ad63a6375e8bdf81e3692dbdc68f5b29a54b3cc7"
-    }
+    },
+    {
+  "path": "libraries/org/apache/logging/log4j/log4j-core/2.20.0/log4j-core-2.20.0.jar",
+  "url": "https://libraries.minecraft.net/org/apache/logging/log4j/log4j-core/2.20.0/log4j-core-2.20.0.jar",
+  "hash": "ad63a6375e8bdf81e3692dbdc68f5b29a54b3cc7"
+},
+{
+  "path": "libraries/org/apache/logging/log4j/log4j-api/2.20.0/log4j-api-2.20.0.jar",
+  "url": "https://libraries.minecraft.net/org/apache/logging/log4j/log4j-api/2.20.0/log4j-api-2.20.0.jar",
+  "hash": "5989e6347b40a5d683a510c993f5a77d7bc26ff4"
+}
+
   ]
 }
