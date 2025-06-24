@@ -30,6 +30,12 @@
   "url": "https://libraries.minecraft.net/org/apache/logging/log4j/log4j-core/2.20.0/log4j-core-2.20.0.jar",
   "hash": "ad63a6375e8bdf81e3692dbdc68f5b29a54b3cc7"
 },
+    {
+  "path": "libraries/com/mojang/logging/1.1.4/logging-1.1.4.jar",
+  "url": "https://libraries.minecraft.net/com/mojang/logging/1.1.4/logging-1.1.4.jar",
+  "hash": "6212a15cb6bd951f2043a2fe3b06db104c5c3512"
+}
+,
 {
   "path": "libraries/org/apache/logging/log4j/log4j-api/2.20.0/log4j-api-2.20.0.jar",
   "url": "https://libraries.minecraft.net/org/apache/logging/log4j/log4j-api/2.20.0/log4j-api-2.20.0.jar",
