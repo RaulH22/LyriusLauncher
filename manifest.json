@@ -85,6 +85,16 @@
       "path": "libraries/com/mojang/datafixerupper/6.0.8/datafixerupper-6.0.8.jar",
       "url": "https://libraries.minecraft.net/com/mojang/datafixerupper/6.0.8/datafixerupper-6.0.8.jar",
       "hash": "3ba4a30557a9b057760af4011f909ba619fc5125"
+    },
+    {
+      "path": "libraries/com/google/code/findbugs/jsr305/3.0.2/jsr305-3.0.2.jar",
+      "url": "https://repo1.maven.org/maven2/com/google/code/findbugs/jsr305/3.0.2/jsr305-3.0.2.jar",
+      "hash": "25ea2e8b0c338a877313bd4672d3fe056ea78f0d"
+    },
+    {
+      "path": "libraries/org/apache/commons/commons-lang3/3.12.0/commons-lang3-3.12.0.jar",
+      "url": "https://repo1.maven.org/maven2/org/apache/commons/commons-lang3/3.12.0/commons-lang3-3.12.0.jar",
+      "hash": "c6842c86792ff03b9f1d1fe2aab8dc23aa6c6f0e"
     }
   ]
 }
