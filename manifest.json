@@ -100,6 +100,11 @@
       "path": "libraries/it/unimi/dsi/fastutil/8.5.11/fastutil-8.5.11.jar",
       "url": "https://repo1.maven.org/maven2/it/unimi/dsi/fastutil/8.5.11/fastutil-8.5.11.jar",
       "hash": "db3dbb47a54c65230c7a3ed00b1e695eae08872a"
+    },
+    {
+      "path": "libraries/com/google/code/gson/gson/2.10.1/gson-2.10.1.jar",
+      "url": "https://repo1.maven.org/maven2/com/google/code/gson/gson/2.10.1/gson-2.10.1.jar",
+      "hash": "a1d0c2a89cbe5d311d5e1e44e917f48c889b8b49"
     }
   ]
 }
