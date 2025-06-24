@@ -1,0 +1,15 @@
+{
+  "version": "0.0.1",
+  "files": [
+    {
+      "path": "mods/mod1.jar",
+      "hash": "abc123...",
+      "url": "https://meusite.com/mods/mod1.jar"
+    },
+    {
+      "path": "configs/config1.yml",
+      "hash": "def456...",
+      "url": "https://meusite.com/configs/config1.yml"
+    }
+  ]
+}
