@@ -80,6 +80,11 @@
       "path": "libraries/io/netty/netty-transport/4.1.95.Final/netty-transport-4.1.95.Final.jar",
       "url": "https://repo1.maven.org/maven2/io/netty/netty-transport/4.1.95.Final/netty-transport-4.1.95.Final.jar",
       "hash": "02e3f200867f42af92ad8aa396628690ac0be489"
+    },
+    {
+      "path": "libraries/com/mojang/datafixerupper/6.0.8/datafixerupper-6.0.8.jar",
+      "url": "https://libraries.minecraft.net/com/mojang/datafixerupper/6.0.8/datafixerupper-6.0.8.jar",
+      "hash": "<INSIRA_HASH_SHA1_AQUI>"
     }
   ]
 }
