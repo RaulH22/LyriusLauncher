@@ -14,11 +14,6 @@
       "path": "libraries/net/fabricmc/fabric-api/fabric-api-0.97.0+1.21.4.jar",
       "url": "https://maven.fabricmc.net/net/fabricmc/fabric-api/fabric-api-0.97.0+1.21.4/fabric-api-0.97.0+1.21.4.jar",
       "hash": "d41d8cd98f00b204e9800998ecf8427e"
-    },
-    {
-      "path": "mods/mod-exemplo.jar",
-      "url": "https://seusite.com/mods/mod-exemplo.jar",
-      "hash": "d41d8cd98f00b204e9800998ecf8427e"
     }
   ]
 }
