@@ -19,6 +19,11 @@
       "path": "libraries/net/sf/jopt-simple/jopt-simple/5.0.4/jopt-simple-5.0.4.jar",
       "url": "https://repo1.maven.org/maven2/net/sf/jopt-simple/jopt-simple/5.0.4/jopt-simple-5.0.4.jar",
       "hash": "2f4f394b893a3ad949667d5631d99b86515e2b6c"
+    },
+    {
+      "path": "libraries/org/apache/logging/log4j/log4j-core/2.20.0/log4j-core-2.20.0.jar",
+      "url": "https://libraries.minecraft.net/org/apache/logging/log4j/log4j-core/2.20.0/log4j-core-2.20.0.jar",
+      "hash": "ad63a6375e8bdf81e3692dbdc68f5b29a54b3cc7"
     }
   ]
 }
