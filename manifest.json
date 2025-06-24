@@ -1,7 +1,7 @@
 {
   "files": [
     {
-      "path": "versions/1.21.4-fabric/1.21.4-fabric.jar",
+      "path": "versions/1.21.4/1.21.4.jar",
       "url": "https://launcher.mojang.com/v1/objects/babfe60a5cb01e6aef2d2e2803e8814391b7fc68/client.jar",
       "hash": "babfe60a5cb01e6aef2d2e2803e8814391b7fc68"
     },
