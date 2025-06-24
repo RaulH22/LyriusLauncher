@@ -51,10 +51,10 @@
   "url": "https://libraries.minecraft.net/org/slf4j/slf4j-api/1.8.0-beta4/slf4j-api-1.8.0-beta4.jar",
   "hash": "743dfd8a1c51f6c0f2ce57064875fd3724c7d2c6"
 },
-    {
-  "path": "libraries/com/mojang/brigadier/1.0.18/brigadier-1.0.18.jar",
-  "url": "https://repo1.maven.org/maven2/com/mojang/brigadier/1.0.18/brigadier-1.0.18.jar",
-  "hash": "d4f541d89f8d9a9eb7bc9e7f55e7bf8140ae2db9" 
+{
+  "path": "libraries/com/mojang/brigadier/1.1.4/brigadier-1.1.4.jar",
+  "url": "https://libraries.minecraft.net/com/mojang/brigadier/1.1.4/brigadier-1.1.4.jar",
+  "hash": "somehashhere"
 }
 
   ]
