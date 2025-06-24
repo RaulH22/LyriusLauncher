@@ -48,38 +48,38 @@
     {
       "path": "libraries/com/mojang/brigadier/1.1.4/brigadier-1.1.4.jar",
       "url": "https://libraries.minecraft.net/com/mojang/brigadier/1.1.4/brigadier-1.1.4.jar",
-      "hash": "somehashhere"
+      "hash": "8daa354d96fa3135a72a84bcc48e0fdcf5c8492f"
     },
 
     {
       "path": "libraries/io/netty/netty-buffer/4.1.95.Final/netty-buffer-4.1.95.Final.jar",
       "url": "https://repo1.maven.org/maven2/io/netty/netty-buffer/4.1.95.Final/netty-buffer-4.1.95.Final.jar",
-      "hash": "hash-do-arquivo"
+      "hash": "e4c48277bd1976b6cd6dc193fe6fccc0bee87b7d"
     },
     {
       "path": "libraries/io/netty/netty-codec/4.1.95.Final/netty-codec-4.1.95.Final.jar",
       "url": "https://repo1.maven.org/maven2/io/netty/netty-codec/4.1.95.Final/netty-codec-4.1.95.Final.jar",
-      "hash": "hash-do-arquivo"
+      "hash": "0309568e8d92c70ed77a967766a597628d85ce85"
     },
     {
       "path": "libraries/io/netty/netty-common/4.1.95.Final/netty-common-4.1.95.Final.jar",
       "url": "https://repo1.maven.org/maven2/io/netty/netty-common/4.1.95.Final/netty-common-4.1.95.Final.jar",
-      "hash": "hash-do-arquivo"
+      "hash": "58c510d99df2b1abbcba4849d98b05affae0a96b"
     },
     {
       "path": "libraries/io/netty/netty-handler/4.1.95.Final/netty-handler-4.1.95.Final.jar",
       "url": "https://repo1.maven.org/maven2/io/netty/netty-handler/4.1.95.Final/netty-handler-4.1.95.Final.jar",
-      "hash": "hash-do-arquivo"
+      "hash": "0453d6f22ee5167dce071f2881d1c693577fb3fa"
     },
     {
       "path": "libraries/io/netty/netty-resolver/4.1.95.Final/netty-resolver-4.1.95.Final.jar",
       "url": "https://repo1.maven.org/maven2/io/netty/netty-resolver/4.1.95.Final/netty-resolver-4.1.95.Final.jar",
-      "hash": "hash-do-arquivo"
+      "hash": "a40613ca25190f455042e92e72753a7e6958272c"
     },
     {
       "path": "libraries/io/netty/netty-transport/4.1.95.Final/netty-transport-4.1.95.Final.jar",
       "url": "https://repo1.maven.org/maven2/io/netty/netty-transport/4.1.95.Final/netty-transport-4.1.95.Final.jar",
-      "hash": "hash-do-arquivo"
+      "hash": "02e3f200867f42af92ad8aa396628690ac0be489"
     }
   ]
 }
