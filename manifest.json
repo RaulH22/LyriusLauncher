@@ -2,8 +2,8 @@
   "files": [
     {
       "path": "versions/1.21.4-fabric/1.21.4-fabric.jar",
-      "url": "https://launcher.mojang.com/v1/objects/EXEMPLOHASH/client.jar",
-      "hash": "EXEMPLOHASH"
+      "url": "https://launcher.mojang.com/v1/objects/babfe60a5cb01e6aef2d2e2803e8814391b7fc68/client.jar",
+      "hash": "babfe60a5cb01e6aef2d2e2803e8814391b7fc68"
     },
     {
       "path": "libraries/net/fabricmc/fabric-loader/0.15.7/fabric-loader-0.15.7.jar",
