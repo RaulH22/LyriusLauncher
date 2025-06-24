@@ -84,7 +84,7 @@
     {
       "path": "libraries/com/mojang/datafixerupper/6.0.8/datafixerupper-6.0.8.jar",
       "url": "https://libraries.minecraft.net/com/mojang/datafixerupper/6.0.8/datafixerupper-6.0.8.jar",
-      "hash": "<INSIRA_HASH_SHA1_AQUI>"
+      "hash": "3ba4a30557a9b057760af4011f909ba619fc5125"
     }
   ]
 }
